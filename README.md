@@ -1,6 +1,5 @@
 - 👋  Hi, I’m Parv (@ParvBudh28)
 - 👀  I’m interested in learning new concepts and applying them in real world
-- 🌱  I’m currently working as a software engineer in Google. I have also interned at Amazon and Microsoft as a Software Engineer.
 - 📫  You can reach out to reach me on parvbud@gmail.com
 
 <!---
